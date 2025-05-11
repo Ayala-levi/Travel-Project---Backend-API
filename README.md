@@ -39,7 +39,7 @@
 
 2.  **שכפול הפרויקט**:
     ```bash
-    git clone <כתובת ה-Git של הפרויקט>
+    git clone https://github.com/Ayala-levi/Travel-Project---Backend-API.git
     cd Travel
     ```
 
@@ -47,9 +47,9 @@
     * פתח את קובץ `Travel.Data\DataContext.cs`.
     * אתר את הקטע הבא בתוך המתודה `OnConfiguring`:
         ```csharp
-        optionsBuilder.UseSqlServer("Server=DESKTOP-783IDMP\\SQLEXPRESS;Database=MyShop_db;Integrated Security=True;TrustServerCertificate=True;");
+        optionsBuilder.UseSqlServer("Server=???;Database=???;Integrated Security=True;TrustServerCertificate=True;");
         ```
-    * **החלף את מחרוזת החיבור** `"Server=DESKTOP-783IDMP\\SQLEXPRESS;Database=MyShop_db;Integrated Security=True;TrustServerCertificate=True;"` בפרטי החיבור למסד הנתונים שלך.
+    * **החלף את מחרוזת החיבור** `"Server=server_name;Database=name_of_database;Integrated Security=True;TrustServerCertificate=True;"` בפרטי החיבור למסד הנתונים שלך.
 
 4.  **ביצוע מיגרציות (במידת הצורך)**:
     אם קיימות מיגרציות שלא הופעלו, יש לבצע אותן כדי ליצור את סכימת מסד הנתונים:
@@ -67,18 +67,3 @@
 6.  **גישה ל-API**:
     לאחר ההרצה, ה-API יהיה זמין בכתובת ברירת מחדל (לרוב `http://localhost:5XXX`). ניתן לגשת לתיעוד Swagger בכתובת `/swagger` (לדוגמה, `http://localhost:5XXX/swagger`).
 
-## נקודות קצה (דוגמאות)
-
-*(כאן יופיעו פירוט של נקודות הקצה של ה-API לאחר שתספק לי אותן)*
-
-## תרומה
-
-*(אם אתה מעוניין לקבל תרומות לפרויקט, ציין כאן כיצד)*
-
-## מילות מפתח
-
-`C#`, `.NET`, `ASP.NET Core`, `API`, `Backend`, `Entity Framework Core`, `EF Core`, `ארכיטקטורת 4 שכבות`, `Repository Pattern`, `Service Layer`, `Swagger`, `OpenAPI`, `Dependency Injection`, `מסד נתונים`, `SQL Server`, `מיגרציות`, `טיולים`, `משתמשים`, `הרשמות`.
-
----
-
-אני מקווה שזה נראה מרשים להתחלה! מה תרצה להוסיף או לשנות?
