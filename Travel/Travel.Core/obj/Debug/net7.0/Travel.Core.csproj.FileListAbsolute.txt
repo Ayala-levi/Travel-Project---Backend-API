@@ -1,0 +1,11 @@
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Core\bin\Debug\net7.0\Travel.Core.deps.json
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Core\bin\Debug\net7.0\Travel.Core.dll
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Core\bin\Debug\net7.0\Travel.Core.pdb
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Core\obj\Debug\net7.0\Travel.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Core\obj\Debug\net7.0\Travel.Core.AssemblyInfoInputs.cache
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Core\obj\Debug\net7.0\Travel.Core.AssemblyInfo.cs
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Core\obj\Debug\net7.0\Travel.Core.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Core\obj\Debug\net7.0\Travel.Core.dll
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Core\obj\Debug\net7.0\refint\Travel.Core.dll
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Core\obj\Debug\net7.0\Travel.Core.pdb
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Core\obj\Debug\net7.0\ref\Travel.Core.dll

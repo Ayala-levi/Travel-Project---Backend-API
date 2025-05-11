@@ -1,0 +1,15 @@
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Service\bin\Debug\net7.0\Travel.Service.deps.json
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Service\bin\Debug\net7.0\Travel.Service.dll
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Service\bin\Debug\net7.0\Travel.Service.pdb
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Service\obj\Debug\net7.0\Travel.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Service\obj\Debug\net7.0\Travel.Service.AssemblyInfoInputs.cache
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Service\obj\Debug\net7.0\Travel.Service.AssemblyInfo.cs
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Service\obj\Debug\net7.0\Travel.Service.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Service\obj\Debug\net7.0\Travel.Service.dll
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Service\obj\Debug\net7.0\refint\Travel.Service.dll
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Service\obj\Debug\net7.0\Travel.Service.pdb
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Service\obj\Debug\net7.0\ref\Travel.Service.dll
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Service\bin\Debug\net7.0\Travel.Core.dll
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Service\bin\Debug\net7.0\Travel.Core.pdb
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Service\obj\Debug\net7.0\Travel.Service.csproj.AssemblyReference.cache
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 21\Travel\Travel.Service\obj\Debug\net7.0\Travel.Service.csproj.CopyComplete
